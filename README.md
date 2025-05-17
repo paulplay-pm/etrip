@@ -1,3 +1,6 @@
 # etrip
 A web+desktop based application for trip
-python 3.6
+
+# development environment
+python3.6
+mysql8.0
